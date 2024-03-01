@@ -1,0 +1,28 @@
+.styles{
+    color: white;
+    padding-top: 30px;
+    padding-right:10px ;
+}
+
+.imgStyles{
+    width: 200px;
+    height: 200px;
+}
+
+.cityStyles{
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+
+.detailStyles{
+    margin-left: 30px;
+}
+
+.temperatureStyles{
+    font-size: 30px;
+}
+
+.lighterColor{
+    color: rgba(255, 255, 255, 0.4);
+    font-size: 12px;
+}

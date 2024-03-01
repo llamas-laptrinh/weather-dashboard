@@ -1,0 +1,9 @@
+.styles{
+    background-color: #202b3b;
+    border-radius: 10px;
+    color: rgba(255, 255, 255, 0.4);
+}
+.temperatureStyles{
+    font-size: 20px;
+    color: white;
+}

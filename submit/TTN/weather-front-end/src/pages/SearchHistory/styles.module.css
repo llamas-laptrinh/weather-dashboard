@@ -1,0 +1,22 @@
+.bg{
+    height: 100%;
+    background-color: #0b131e;
+    color:white;
+}
+p{
+    margin: 0;
+}
+.title{
+    font-weight: bold;
+    font-size: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.table{
+    width:90%;
+    margin-left: 50px;
+}
+
+.blueColor{
+    color:blue;
+}

@@ -1,0 +1,14 @@
+.bg{
+    background: #0b131e;
+    height: 100%;
+    padding-left: 10px;
+}
+.searchStyles{
+    width: 80%;
+    margin:auto;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 5px;
+    background: #202b3b;
+    color:white;
+}
