@@ -1,0 +1,21 @@
+.styles{
+    background-color: #202b3b;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 10px;
+    color: rgba(255, 255, 255, 0.4);
+    width: 100%;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+.todayForecast{
+    padding-top: 10px;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+
+.Divider{
+    border-left: 1px solid rgba(255, 255, 255, 0.1);
+}

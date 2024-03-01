@@ -1,0 +1,35 @@
+.styles{
+    background-color: #202b3b;
+    border-radius: 10px;
+    color: rgba(255, 255, 255, 0.4);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.iconUrl{
+    width: 50px;
+    height: 50px;
+}
+.temperatureStyles{
+    font-size: 20px;
+    color: white;
+}
+.DFlex{
+    display: flex;
+    justify-content:space-between ;
+}
+.FullWidth{
+    width: 100%;
+}
+
+@media screen and (max-width: 600px) {
+    
+}
+
+@media screen and (max-width: 758px) {
+    .temperatureStyles {
+            display: none;
+        }
+}
